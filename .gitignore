@@ -1,0 +1,19 @@
+# Build output
+build/
+frontend/dist/
+
+# Gradle caches and local Node runtime downloaded by the build
+.gradle/
+
+# Frontend dependencies
+frontend/node_modules/
+
+# IDE / OS
+.claude/
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# Interviewer-only material — keep this OUT of the public repository
+INTERVIEWER_GUIDE.md
